@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class VariablesAndFunctions : MonoBehaviour
 {
     //create my integer variable
     public int informalboi = 5;
